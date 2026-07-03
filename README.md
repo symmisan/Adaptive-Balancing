@@ -59,7 +59,7 @@ Actual: Reduce enemy count, increase distance, and slow waves.
 
 Average Player
 Input: healthLost=40, damageTaken=50, accuracy=55, enemiesDefeated=6, healingUsed=2
-Challenge Score: 57
+Challenge Score: 47
 Expected: Keep difficulty stable.
 Actual: Keep difficulty stable.
 ```
